@@ -30,7 +30,7 @@ $db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
                 $_SESSION['username'] = $username;
 
-                header("location: home.php");
+                
 
             }
             
