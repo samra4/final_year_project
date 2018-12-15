@@ -1,26 +1,3 @@
 theme: jekyll-theme-architect
 title: Final Year Project
 Description: A website to help make the right investment choices
-<!DOCTYPE html>
-
-<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
-<head>
-    <meta charset="utf-8" />
-    <title>Test Website</title>
-    <link rel="stylesheet" type="text/css" href="Style.css">
-</head>
-<body>
-    <h1>My Website</h1>
-  
-    <div class="container">
-        <nav>
-        <ul>
-            <li>Home Page </li>
-            <li> About Us </li>
-            <li> Contact us</li>
-        </ul>
-        </nav>
-        
-        <footer> Copyright &copy; simran.com</footer>
-    </div>
-</body>
